@@ -1,0 +1,19 @@
+body{
+    margin: 20px;
+}
+.photo  {
+    height: 250px;
+    border: 1px dotted blue;
+}
+
+.italic{
+    font-style: italic;
+}
+.card   {
+    border: 1px dotted blue;
+    padding: 20px;
+    display: flex;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
