@@ -1,0 +1,18 @@
+body    {
+    color:white;
+    background-image: url("https://media.giphy.com/media/l4KhNBgG8RaItFkDS/giphy.gif");
+    background-size: cover;
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+}
+
+.btn {
+    font-family: inherit;
+    padding: 6px 12px;
+    background: white;
+    border: none;
+}
+
+#underline  {
+    border-bottom: 4px solid white;
+}
