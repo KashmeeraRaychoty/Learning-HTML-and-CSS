@@ -1,0 +1,12 @@
+body    {
+    text-align: center;
+    font-family: 'Happy Monkey', cursive;
+    background: #a2d2ff;
+    color: #ffffff;
+}
+#photo   {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 6px solid 3EFB0C9;
+}
